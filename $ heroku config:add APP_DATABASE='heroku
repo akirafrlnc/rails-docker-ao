@@ -1,0 +1,9 @@
+$ heroku config:add APP_DATABASE='heroku_1181b2fd968c842' -a rails-docker-ao
+$ heroku config:add APP_DATABASE_USERNAME='b551ac3a939363' -a rails-docker-ao
+$ heroku config:add APP_DATABASE_PASSWORD='12faf874' -a rails-docker-ao
+$ heroku config:add APP_DATABASE_HOST='us-cluster-east-01.k8s.cleardb.net' -a rails-docker-ao
+
+b551ac3a939363
+12faf874
+us-cluster-east-01.k8s.cleardb.net
+heroku_1181b2fd968c842
